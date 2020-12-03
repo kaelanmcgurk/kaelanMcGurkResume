@@ -29,11 +29,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `November 2020 - Present`
 __Shine Solar__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked with data tables in a database consisting of revenue, customers, and employees
+- Used MySQL commands and Zoho reports to generate easy to ead reports
+- Created reports and visuals for the Luminary app under Shine Solar.
 
-### Data Science Lead
+### Previous Work Experience
 
 `April 2027 - June 2027`
 __Westmark Credit Union__, Consultant
