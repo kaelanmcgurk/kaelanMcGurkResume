@@ -33,7 +33,7 @@ __Shine Solar__, Rexburg, ID
 - Used MySQL commands and Zoho reports to generate easy to ead reports
 - Created reports and visuals for the Luminary app under Shine Solar.
 
-### Previous Work Experience
+### Data Science Lead
 
 `April 2027 - June 2027`
 __Westmark Credit Union__, Consultant
