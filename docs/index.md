@@ -6,8 +6,8 @@ title: Kaelan McGurk's Resume
 Data Scientist, BS From BYU-Idaho
 
 <div id="webaddress">
-<a href="kaelanmcgurk@gmail.com">kaelanmcgurk@gmail.com</a>
 | <a href="https://www.linkedin.com/in/kaelanmcgurk/">LinkedIn</a>
+|<a href="kaelanmcgurk@gmail.com">kaelanmcgurk@gmail.com</a>
 | <a href="https://github.com/kaelanmcgurk">GitHub</a>
 </div>
 
