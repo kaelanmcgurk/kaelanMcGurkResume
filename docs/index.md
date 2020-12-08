@@ -3,12 +3,12 @@ layout: cv
 title: Kaelan McGurk's Resume
 ---
 # Kaelan McGurk
-Data Scientist BS From BYU-Idaho
+Data Scientist, BS From BYU-Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<a href="kaelanmcgurk@gmail.com">kaelanmcgurk@gmail.com</a>
+| <a href="https://byuidatascience.github.io/development.html">Data ScienceCHANGETHIS Program</a>
+| <a href="https://www.linkedin.com/in/kaelanmcgurk/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -19,61 +19,46 @@ Data Scientist BS From BYU-Idaho
 `Expected July 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.01 Major GPA
-
-
 ## Related Experience
 
 ### Internships
 
 `November 2020 - Present`
-__Shine Solar__, Rexburg, ID
+__Shine Solar__, Data Science Intern, _Rexburg, ID_
 
 - Worked with data tables in a database consisting of revenue, customers, and employees
-- Used MySQL commands and Zoho reports to generate easy to ead reports
+- Used MySQL commands and Zoho analytics to generate easy to read reports
 - Created reports and visuals for the Luminary app under Shine Solar.
 
-### Data Science Lead
+## Work History
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`December 2018 - November 2020`
+__BYU-Idaho Housing and Student Living Department__, Maintenance Lead for Centre Square Apartments, _Rexburg, ID_
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+•	Provided routine maintenance on 150+ apartments daily.
+•	Lead a team of custodians in cleaning the three apartment buildings that make up the complex. 
+•	Inspected 60+ apartments for pristine cleanliness and appliance functionality.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`July 2018 – Sept 2018`
+__BYU-Idaho Facilities__, Paint Striper, _Rexburg, ID_
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+•	Enhanced worn out and faded parking stall lines.
+•	Worked with a variety of tools and machines to paint perfect lines.
+•	Cooperated with many departments at the university in order to get everything painted properly.  
 
-### Data Science Consulting Team
+`Feb 2017 – April 2018`
+__Costa Vida__, Shift Manager, _Idaho Falls, ID_
 
-`January 2027 - April 2027`
-__Imagine Learning__
+•	Resolved any possible issues a customer might have with their order.
+•	Supervised a team of cooks, cashiers, and food crafters to make exquisite Mexican inspired food.
+•	Instructed new hires on the company mission statement, procedures, and proper customer service   
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`June 2015 – Aug 2016`
+__Zerorez Carpet Cleaning__, Carpet Cleaning Assistant, _San Jose, CA_
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+•	Assist the carpet technician with pre-treating carpet, upholstery, and tile floors. 
+•	Interacted with customers to ensure the job finished to their satisfaction
+•	Adapted to unique requests or layout of any given customer. 
 
 
 
