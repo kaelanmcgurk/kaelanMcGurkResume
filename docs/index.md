@@ -7,7 +7,6 @@ Data Scientist, BS From BYU-Idaho
 
 <div id="webaddress">
 <a href="kaelanmcgurk@gmail.com">kaelanmcgurk@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data ScienceCHANGETHIS Program</a>
 | <a href="https://www.linkedin.com/in/kaelanmcgurk/">LinkedIn</a>
 | <a href="https://github.com/kaelanmcgurk">GitHub</a>
 </div>
