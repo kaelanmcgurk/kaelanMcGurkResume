@@ -34,7 +34,7 @@ __Shine Solar__, Data Science Intern, _Rexburg, ID_
 ## Work History
 
 `December 2018 - November 2020`
-__BYU-Idaho Housing and Student Living Department__, Maintenance Lead for Centre Square Apartments, _Rexburg, ID_
+__BYU-Idaho Housing and Student Living Department__, Maintenance Lead, _Rexburg, ID_
 
 - Provided routine maintenance on 150+ apartments daily.
 
